@@ -1,6 +1,6 @@
 ## Hi there! 👋 Welcome to my digital playground! 🚀  
 
-I'm **Harshit Mishra**, a **tech explorer** and final-year **Computer Science Engineering** student specializing in **Big Data Analytics** at Lovely Professional University. I thrive at the intersection of **innovation** and **impact**, turning ideas into meaningful projects. 🌟  
+I'm **Harshit Mishra**, a **tech explorer** and first-year **Computer Science Engineering** student specializing in **Big Data Analytics** at Lovely Professional University. I thrive at the intersection of **innovation** and **impact**, turning ideas into meaningful projects. 🌟  
 
 ---
 
@@ -20,7 +20,7 @@ I'm **Harshit Mishra**, a **tech explorer** and final-year **Computer Science En
 
 ### 🌐 Let's Connect!
 - 💬 Ask me about: AI, sustainability, and innovative problem-solving.  
-- 📫 Reach me at: **mishraharshittt@gmail.com**  
+- 📫 Reach me at: **official.harshitmishra272@gmail.com**  
 - 🌟 Fun Fact: I believe **every code** tells a story and every solution has the power to **change lives**.  
 
 ---
